@@ -28,6 +28,6 @@
     "egg-bin": "^6.13.0",
     "egg-mock": "^5.15.1",
     "tsx": "^4.23.13",
-    "typescript": "^5.8.0"
+    "typescript": "^7.0.2"
   }
 }
