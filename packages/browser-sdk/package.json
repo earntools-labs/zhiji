@@ -32,6 +32,6 @@
     "test": "rm -rf .test-dist && tsc -p tsconfig.test.json && node --test test/*.test.mjs"
   },
   "devDependencies": {
-    "typescript": "^5.9.0"
+    "typescript": "^7.0.2"
   }
 }
